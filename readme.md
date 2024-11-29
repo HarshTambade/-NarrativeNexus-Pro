@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📫 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@harshtambade](https://in.linkedin.com/in/harsh-tambade)
 
 Project Link: [https://github.com/yourusername/narrative-nexus-pro](https://github.com/yourusername/narrative-nexus-pro)
 
