@@ -1,6 +1,7 @@
 # 🎭 NarrativeNexus Pro
 
 NarrativeNexus Pro is an advanced AI-powered creative writing platform that helps writers, storytellers, and content creators generate various forms of creative content using the Gemini AI API.
+View App: https://narrative-nexus-pro.streamlit.app/
 
 ## 🌟 Features
 
